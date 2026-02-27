@@ -31,7 +31,7 @@ Demonstrate that **Vectorless Tree-based RAG** is better at understanding docume
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/KenilGopani/intelligent-document-auditor.git
    cd intelligent-document-auditor
    ```
 
